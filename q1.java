@@ -1,6 +1,7 @@
 // strings into uppercase
 
 import java.util.*;
+import java.util.Scanner;
 import java.util.stream.*;
 
 public class Uppercase {
